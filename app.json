@@ -1,0 +1,5 @@
+{
+  "name": "Sudoku as a Service",
+  "description": "A sudoku solver REST service on Heroku",
+  "image": "heroku/gradle"
+}
